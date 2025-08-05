@@ -9,7 +9,7 @@ body {
 
 form {
     background: white;
-    padding: 2rem;
+    padding: 1rem;
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
     width: 100%;
@@ -40,7 +40,7 @@ input {
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: .5rem;
-    box-sizing: border-box; /* Important! */
+    box-sizing: border-box; 
 }
 
 
